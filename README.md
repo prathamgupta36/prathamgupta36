@@ -15,7 +15,7 @@
     </tr>
     <tr>
         <td>
-            <a href="https://prathamgupta36.github.io//">🌐</a>
+            <a href="https://prathamgupta36.github.io">🌐</a>
         </td>
     </tr>
 </table>
