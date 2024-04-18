@@ -3,7 +3,7 @@
 ### Student/Computer Scientist
 
 - 🔭 I’m currently working on: __Studying__ 
-- 🌱 I’m currently learning: __XNU, BERT Models__
+- 🌱 I’m currently learning: __XNU, BERT Models, Compilers__
 - 💬 Ask me about __Machine Learning, iOS App Dev__
 
 <br/>
