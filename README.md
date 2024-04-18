@@ -1,4 +1,25 @@
-### Hi there 👋
+# Hello there 👋, I'm Pratham Gupta
+
+### Student/Computer Scientist
+
+- 🔭 I’m currently working on: __Studying__ 
+- 🌱 I’m currently learning: __XNU, BERT Models__
+- 💬 Ask me about __Machine Learning, iOS App Dev__
+
+<br/>
+
+
+<table>
+    <tr>
+        <th>My Website</th>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://prathamgupta36.github.io//">🌐</a>
+        </td>
+    </tr>
+</table>
+
 
 <!--
 **prathamgupta36/prathamgupta36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
