@@ -21,6 +21,10 @@
 </table>
 
 
+## My Stats
+![prathamgupta36's GitHub Stats][github-stats-img]
+
+
 <!--
 **prathamgupta36/prathamgupta36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
