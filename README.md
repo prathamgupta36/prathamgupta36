@@ -24,7 +24,7 @@
 
 ## Activity
 <div align="center">
-    <img height="200px" src="https://github-readme-streak-stats.herokuapp.com?user=prathamgupta36&theme=chartreuse-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=501)](https://git.io/streak-stats"/>
+    <img height="200px" src="https://github-readme-streak-stats.herokuapp.com?user=prathamgupta36&theme=chartreuse-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=501)](https://git.io/streak-stat"/>
 </div>
 
 ## Languages
