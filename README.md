@@ -24,7 +24,10 @@
 
 
 ## Languages
-![Pratham's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=prathamgupta36&hide=TeX&layout=compact)
+
+<div align="center">
+    <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathamgupta36&hide=TeX&layout=compact"/>
+</div>
 
 ## Activity
 <div align="center">
