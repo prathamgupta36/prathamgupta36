@@ -1,4 +1,4 @@
-# Hello there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="35px" alt="hi">, I'm Pratham Gupta
+# Hello there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi">, I'm Pratham Gupta
 
 ### Computer Science Student
 
@@ -6,9 +6,10 @@
 - 🌱 I’m currently learning: __XNU, BERT Models, Compilers__
 - 💬 Ask me about __Machine Learning, iOS App Dev, Quantum Computing__
 
+
+<details>
+<summary> More about me </summary>
 <br/>
-
-
 <table>
     <tr>
         <th>My Website</th>
@@ -22,8 +23,9 @@
 
 
 ## Languages
-![Pratham's GitHub Stats](https://cheesits456-readme-stats.vercel.app/api/top-langs?username=prathamgupta36&layout=compact&card_width=275&theme=github_dark&langs_count=10&hide=c,meson,makefile,m4&exclude_repo=github-readme-stats,BitJanitor,github-activity-readme,fancy-git,challengeBot)
+![Pratham's GitHub Stats]([https://cheesits456-readme-stats.vercel.app/api/top-langs?username=prathamgupta36&layout=compact&card_width=275&theme=github_dark&langs_count=10&hide=c,meson,makefile,m4&exclude_repo=github-readme-stats,BitJanitor,github-activity-readme,fancy-git,challengeBot](https://github-readme-stats.vercel.app/api/top-langs/?username=prathamgupta36&hide=TeX&layout=compact))
 
+</details>
 
 <!--
 **prathamgupta36/prathamgupta36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
