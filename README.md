@@ -6,9 +6,10 @@
 - 🌱 I’m currently learning: __XNU, BERT Models, Compilers__
 - 💬 Ask me about __Machine Learning, iOS App Dev, Quantum Computing__
 
-
+<!--
 <details>
 <summary> More about me </summary>
+-->
 <br/>
 <table>
     <tr>
@@ -24,9 +25,9 @@
 
 ## Languages
 ![Pratham's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=prathamgupta36&hide=TeX&layout=compact)
-
+<!--
 </details>
-
+-->
 <!--
 **prathamgupta36/prathamgupta36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
