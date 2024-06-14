@@ -29,6 +29,13 @@
     <img height="200px" src="https://readme-streak-stats-ruddy.vercel.app/?user=prathamgupta36&theme=chartreuse-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=501)](https://git.io/streak-stats"/>
 </div>
 
+## Stats
+
+![](https://raw.githubusercontent.com/prathamgupta36/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+
+![](https://raw.githubusercontent.com/prathamgupta36/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+
+<!--
 ## Languages
 
 <div align="center">
