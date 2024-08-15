@@ -26,7 +26,7 @@
 
 ## Activity
 <div align="center">
-    <img height="200px" src="https://readme-streak-stats-ruddy.vercel.app/?user=prathamgupta36&theme=chartreuse-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=501)](https://git.io/streak-stat"/>
+    <img height="200px" src="https://readme-streak-stats-ruddy.vercel.app/?user=prathamgupta36&theme=chartreuse-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=501)](https://git.io/streak-stats"/>
 </div>
 
 ## Stats
