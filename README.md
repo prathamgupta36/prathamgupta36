@@ -29,7 +29,7 @@
 
 ## Activity
 <div align="center">
-    <img height="200px" src="https://streak-stats.demolab.com/?user=prathamgupta36&theme=chartreuse-dark&date_format=j%20M%5B%20Y%5D&card_width=501"/>
+    <img height="200px" src="https://streak-stats.demolab.com/?user=prathamgupta36&theme=chartreuse-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=501"/>
 </div>
 
 
