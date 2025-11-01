@@ -35,7 +35,7 @@
 
 ## Stats
 
-![](https://raw.githubusercontent.com/prathamgupta36/github-stats/refs/heads/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/prathamgupta36/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/prathamgupta36/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 <!--
